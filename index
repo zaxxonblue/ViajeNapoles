@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nápoles: Plan de Viaje Completo</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans antialiased">
+  <header class="bg-sky-800 text-white py-8 px-4 shadow-md text-center">
+    <div class="max-w-5xl mx-auto">
+      <h1 class="text-3xl md:text-4xl font-extrabold tracking-tight">Visitas Nápoles (21-24 Enero)</h1>
+      <p class="mt-2 text-sky-100 text-sm md:text-base">Itinerario detallado con comidas, rutas ordenadas y vuelos</p>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-8">
+    
+    <!-- SECCIÓN SÍ VISITAMOS -->
+    <section class="mb-12">
+      <div class="border-b-4 border-emerald-500 pb-2 mb-6">
+        <h2 class="text-2xl font-bold text-emerald-800 flex items-center gap-2">
+          <span>✅</span> Itinerario de Viaje
+        </h2>
+      </div>
+
+      <!-- DIA 1 -->
+      <h3 class="text-lg font-semibold text-slate-700 bg-slate-200 px-4 py-2 rounded-lg mb-4">Día 1 (21-01-2027): Llegada a Nápoles</h3>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-10">
+        
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Aeropuerto+Napoles+Capodichino+llegada&w=800&h=600&c=7&rs=1&p=0" alt="Llegada" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Llegada y Traslado</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Aterrizaje y llegada al alojamiento</p>
+            <p class="text-sm text-emerald-600 font-semibold mb-3">Actividad: Check-in y descanso</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Aeroporto+Internazionale+di+Napoli" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Pizza+napoletana+trattoria+cena&w=800&h=600&c=7&rs=1&p=0" alt="Cena" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Cena de Bienvenida</h4>
+            <p class="text-xs text-amber-600 font-medium mb-1">Primera toma de contacto con la gastronomía</p>
+            <p class="text-sm text-emerald-600 font-semibold mb-3">Recomendación: Pizzería local cercana</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Pizza+Napoletana+autentica" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <!-- PASEO NOCTURNO (NUEVO) -->
+        <div class="bg-indigo-50 rounded-xl shadow border border-indigo-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Napoli+centro+storico+notte&w=800&h=600&c=7&rs=1&p=0" alt="Paseo Nocturno" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-indigo-900">🌙 Paseo Nocturno</h4>
+            <p class="text-xs text-indigo-700 font-medium mb-1">Centro histórico iluminado</p>
+            <p class="text-sm text-indigo-800 font-semibold mb-3">Sugerencia: Caminata corta tras la cena</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Napoli+centro+storico+notte" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- DIA 2 -->
+      <h3 class="text-lg font-semibold text-slate-700 bg-slate-200 px-4 py-2 rounded-lg mb-4">Día 2 (22-01-2027): Centro Histórico y Zona Monumental</h3>
+      
+      <h4 class="font-bold text-sky-800 text-md uppercase tracking-wide mb-3 pl-2 border-l-4 border-sky-500">📍 Ruta Mañana: Free Tour</h4>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+        
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Piazza+Dante+Napoli+plaza&w=800&h=600&c=7&rs=1&p=0" alt="Piazza Dante" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Piazza Dante</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Plaza pública (Inicio Free Tour)</p>
+            <p class="text-sm text-emerald-600 font-semibold mb-3">Entrada: Gratuito</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Piazza+Dante+Napoli" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Piazza+Bellini+Napoli+mura+greche+scavi&w=800&h=600&c=7&rs=1&p=0" alt="Piazza Bellini" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Piazza Bellini</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Murallas griegas (s. IV a.C.)</p>
+            <p class="text-sm text-emerald-600 font-semibold mb-3">Entrada: Gratuito</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Piazza+Bellini+Napoli+mura+greche" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Spaccanapoli+calle+Napoli&w=800&h=600&c=7&rs=1&p=0" alt="Spaccanapoli" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Spaccanapoli</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Eje histórico peatonal</p>
+            <p class="text-sm text-emerald-600 font-semibold mb-3">Entrada: Gratuito</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Spaccanapoli+Napoli" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Via+San+Gregorio+Armeno+Napoli&w=800&h=600&c=7&rs=1&p=0" alt="San Gregorio Armeno" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">San Gregorio Armeno</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Calle de belenes y artesanos</p>
+            <p class="text-sm text-emerald-600 font-semibold mb-3">Entrada: Gratuito</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Via+San+Gregorio+Armeno+Napoli" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Duomo+di+Napoli+facciata&w=800&h=600&c=7&rs=1&p=0" alt="Duomo di Napoli" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Catedral (Duomo)</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Templo religioso principal</p>
+            <p class="text-sm text-emerald-600 font-semibold mb-3">Entrada: Gratuito</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Duomo+di+Napoli" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <!-- COMIDA -->
+        <div class="bg-amber-50 rounded-xl shadow border border-amber-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Pizza+fritta+Napoli+comida&w=800&h=600&c=7&rs=1&p=0" alt="Comida" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-amber-900">🍽️ Comida: Parada rápida</h4>
+            <p class="text-xs text-amber-700 font-medium mb-1">Recargar fuerzas tras el tour</p>
+            <p class="text-sm text-amber-800 font-semibold mb-3">Sugerencia: Pizza frita o comida callejera</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Pizza+fritta+Napoli+street+food" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+      </div>
+
+      <h4 class="font-bold text-emerald-800 text-md uppercase tracking-wide mb-3 pl-2 border-l-4 border-emerald-500">🚶 Ruta Tarde: Por Libre</h4>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-10">
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Via+Toledo+Napoli+street&w=800&h=600&c=7&rs=1&p=0" alt="Via Toledo" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Via Toledo</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Calle comercial y eje peatonal</p>
+            <p class="text-sm text-emerald-600 font-semibold mb-3">Entrada: Gratuito</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Via+Toledo+Napoli" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Mural+Maradona+Quartieri+Spagnoli+Napoli+santuario&w=800&h=600&c=7&rs=1&p=0" alt="Mural Maradona" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Mural de Maradona</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Monumento urbano (Quartieri Spagnoli)</p>
+            <p class="text-sm text-emerald-600 font-semibold mb-3">Entrada: Gratuito</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Mural+Maradona+Quartieri+Spagnoli+Napoli" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Galleria+Umberto+I+Napoli+interno&w=800&h=600&c=7&rs=1&p=0" alt="Galleria Umberto I" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Galleria Umberto I</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Galería monumental cubierta</p>
+            <p class="text-sm text-emerald-600 font-semibold mb-3">Entrada: Gratuito</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Galleria+Umberto+I+Napoli" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Teatro+San+Carlo+Napoli+esterno&w=800&h=600&c=7&rs=1&p=0" alt="Teatro San Carlo" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Teatro di San Carlo</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Monumento exterior</p>
+            <p class="text-sm text-emerald-600 font-semibold mb-3">Entrada: Gratuito (exterior)</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Teatro+di+San+Carlo+Napoli" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Piazza+del+Plebiscito+Napoli&w=800&h=600&c=7&rs=1&p=0" alt="Piazza del Plebiscito" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Piazza del Plebiscito</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Gran plaza pública monumental</p>
+            <p class="text-sm text-emerald-600 font-semibold mb-3">Entrada: Gratuito</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Piazza+del+Plebiscito+Napoli" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <!-- CENA -->
+        <div class="bg-amber-50 rounded-xl shadow border border-amber-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Pasta+ragu+napoletano+cena&w=800&h=600&c=7&rs=1&p=0" alt="Cena" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-amber-900">🌙 Cena: Zona monumental</h4>
+            <p class="text-xs text-amber-700 font-medium mb-1">Descanso tras el recorrido largo</p>
+            <p class="text-sm text-amber-800 font-semibold mb-3">Sugerencia: Osteria típica por el centro</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Osteria+tipica+Napoli+ragu" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- DIA 3 -->
+      <h3 class="text-lg font-semibold text-slate-700 bg-slate-200 px-4 py-2 rounded-lg mb-4">Día 3 (23-01-2027): Yacimiento y Volcán</h3>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-10">
+        
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Pompeii+ruins+Vesuvius+background&w=800&h=600&c=7&rs=1&p=0" alt="Pompeya" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Pompeya</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Yacimiento arqueológico (Mañana)</p>
+            <p class="text-sm text-amber-700 font-semibold mb-3">Entrada: ~20 € / Menores 18: Gratis</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Parco+Archeologico+di+Pompei" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <!-- COMIDA -->
+        <div class="bg-amber-50 rounded-xl shadow border border-amber-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Panino+napoletano+comida&w=800&h=600&c=7&rs=1&p=0" alt="Comida" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-amber-900">🍽️ Comida en ruta</h4>
+            <p class="text-xs text-amber-700 font-medium mb-1">Entre Pompeya y el Vesubio</p>
+            <p class="text-sm text-amber-800 font-semibold mb-3">Sugerencia: Panino napoletano</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Panino+napoletano" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Gran+Cono+del+Vesuvio+cratere+vulcano+Napoli&w=800&h=600&c=7&rs=1&p=0" alt="Cráter Vesubio" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Monte Vesubio</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Ascenso al Gran Cono (Tarde)</p>
+            <p class="text-sm text-amber-700 font-semibold mb-3">Entrada: ~11,68 € (Reserva previa)</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Cratere+del+Vesuvio+Gran+Cono" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <!-- CENA -->
+        <div class="bg-amber-50 rounded-xl shadow border border-amber-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Seafood+pasta+Napoli+cena&w=800&h=600&c=7&rs=1&p=0" alt="Cena" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-amber-900">🌙 Cena de Regreso</h4>
+            <p class="text-xs text-amber-700 font-medium mb-1">Vuelta a Nápoles tras la excursión</p>
+            <p class="text-sm text-amber-800 font-semibold mb-3">Sugerencia: Pasta con marisco o trattoria local</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Pasta+frutti+di+mare+Napoli" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- DIA 4 -->
+      <h3 class="text-lg font-semibold text-slate-700 bg-slate-200 px-4 py-2 rounded-lg mb-4">Día 4 (24-01-2027): Subsuelo, Mar y Despedida</h3>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-10">
+        
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Napoli+Sotterranea+tunnels&w=800&h=600&c=7&rs=1&p=0" alt="Napoli Sotterranea" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Nápoles Subterránea</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Túneles grecorromanos</p>
+            <p class="text-sm text-amber-700 font-semibold mb-3">Entrada: 15 €</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Napoli+Sotterranea" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Castel+Nuovo+Maschio+Angioino+Napoli&w=800&h=600&c=7&rs=1&p=0" alt="Castel Nuovo" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Castel Nuovo</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Paseo hacia el mar</p>
+            <p class="text-sm text-emerald-600 font-semibold mb-3">Entrada: Gratuito (exterior)</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Castel+Nuovo+Maschio+Angioino+Napoli" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Castel+dell+Ovo+Napoli+panorama&w=800&h=600&c=7&rs=1&p=0" alt="Castel dell Ovo" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Castel dell'Ovo</h4>
+            <p class="text-xs text-sky-700 font-medium mb-1">Lungomare y vistas a la bahía</p>
+            <p class="text-sm text-emerald-600 font-semibold mb-3">Entrada: Gratuito (paseo exterior)</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Castel+dell%27Ovo+Napoli" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <!-- COMIDA -->
+        <div class="bg-amber-50 rounded-xl shadow border border-amber-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Sfogliatella+caffe+Napoli+comida&w=800&h=600&c=7&rs=1&p=0" alt="Comida" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-amber-900">🍽️ Comida de Despedida</h4>
+            <p class="text-xs text-amber-700 font-medium mb-1">Últimos sabores napolitanos</p>
+            <p class="text-sm text-amber-800 font-semibold mb-3">Sugerencia: Dulces típicos (Sfogliatella) o almuerzo cerca del mar</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Sfogliatella+napoletana" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <!-- VUELO -->
+        <div class="bg-indigo-50 rounded-xl shadow border border-indigo-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Avion+regreso+aeropuerto+atardecer&w=800&h=600&c=7&rs=1&p=0" alt="Regreso" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-indigo-900">✈️ Regreso en Avión</h4>
+            <p class="text-xs text-indigo-700 font-medium mb-1">Traslado al aeropuerto y salida</p>
+            <p class="text-sm text-indigo-800 font-semibold mb-3">Fin del viaje</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Aeroporto+di+Napoli+Capodichino" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+
+    <!-- SECCIÓN SITIO RESERVA -->
+    <section>
+      <div class="border-b-4 border-rose-500 pb-2 mb-6">
+        <h2 class="text-2xl font-bold text-rose-800 flex items-center gap-2">
+          <span>❌</span> Lugares reserva
+        </h2>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Cristo+Velato+Cappella+Sansevero+Napoli&w=800&h=600&c=7&rs=1&p=0" alt="Cristo Velado" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Capilla Sansevero (Cristo Velado)</h4>
+            <p class="text-xs text-slate-500 font-medium mb-1">Museo de arte / Capilla barroca</p>
+            <p class="text-sm text-rose-700 font-semibold mb-3">Entrada: ~10 € (Reserva previa imprescindible)</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Cristo+Velato+Cappella+Sansevero+Napoli" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Castel+Sant+Elmo+Napoli+view&w=800&h=600&c=7&rs=1&p=0" alt="Castel Sant Elmo" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Castel Sant'Elmo (Mirador)</h4>
+            <p class="text-xs text-slate-500 font-medium mb-1">Fortaleza medieval y mirador panorámico</p>
+            <p class="text-sm text-rose-700 font-semibold mb-3">Entrada: ~5 € adultos + 1,50 € funicular</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Castel+Sant%27Elmo+Napoli+panorama" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Chiostro+maiolicato+Santa+Chiara+Napoli&w=800&h=600&c=7&rs=1&p=0" alt="Claustro Santa Chiara" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Claustro de Santa Clara</h4>
+            <p class="text-xs text-slate-500 font-medium mb-1">Claustro de mayólicas y jardines</p>
+            <p class="text-sm text-rose-700 font-semibold mb-3">Entrada: ~6 € adultos / 4,50 € estudiantes</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Chiostro+di+Santa+Chiara+Napoli+maioliche" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Piazza+San+Domenico+Maggiore+Napoli&w=800&h=600&c=7&rs=1&p=0" alt="San Domenico Maggiore" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">San Domenico Maggiore</h4>
+            <p class="text-xs text-slate-500 font-medium mb-1">Templo religioso gótico en Spaccanapoli</p>
+            <p class="text-sm text-emerald-600 font-semibold mb-3">Entrada: Gratuito</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Piazza+San+Domenico+Maggiore+Napoli" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+        <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+          <img src="https://tse1.mm.bing.net/th?q=Herculaneum+ruins+Ercolano&w=800&h=600&c=7&rs=1&p=0" alt="Herculano" loading="lazy" class="h-48 w-full object-cover bg-slate-200">
+          <div class="p-4 flex flex-col flex-grow">
+            <h4 class="font-bold text-lg text-slate-900">Yacimiento de Herculano</h4>
+            <p class="text-xs text-slate-500 font-medium mb-1">Yacimiento arqueológico romano</p>
+            <p class="text-sm text-rose-700 font-semibold mb-3">Entrada: ~13 € adultos / Menores 18: Gratis</p>
+            <a href="https://www.google.com/search?tbm=isch&q=Scavi+di+Ercolano+Herculaneum" target="_blank" class="mt-auto text-xs text-blue-600 underline">Ver fotos en Google Imágenes</a>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+
+    <!-- SECCIÓN MAPAS -->
+    <section class="mt-12">
+      <div class="border-b-4 border-blue-500 pb-2 mb-6">
+        <h2 class="text-2xl font-bold text-blue-800 flex items-center gap-2">
+          <span>🗺️</span> Mapas del Itinerario
+        </h2>
+      </div>
+
+      <div class="bg-white rounded-xl shadow border border-slate-200 overflow-hidden flex flex-col">
+        <img src="Selección_680.jpg" alt="Mapa General del Itinerario en Nápoles" loading="lazy" class="w-full object-contain bg-slate-100 max-h-[800px]">
+        <div class="p-6">
+          <h4 class="font-bold text-xl text-slate-900 mb-2">Plano General de Visitas</h4>
+          <p class="text-sm text-slate-600">Vista general de las rutas planificadas para los días en la ciudad, marcando los puntos principales del centro histórico, el barrio de los Quartieri Spagnoli y la zona del Lungomare[cite: 3].</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+</body>
+</html>
